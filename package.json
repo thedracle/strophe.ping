@@ -1,0 +1,19 @@
+{
+  "main": "strophe.ping.js",
+  "name": "strophe.ping",
+  "version": "0.0.1",
+  "files": [
+    "strophe.ping.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedracle/strophe.ping.git"
+  },
+  "description":
+    "Strophe Ping Plugin",
+  "maintainers": ["Jason Thomas <jthomas@hirevue.com>"],
+  "license": "MIT",
+  "dependencies": {
+    "strophe.js": "*"
+  }
+}
